@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomView/CustomView.iml" filepath="$PROJECT_DIR$/CustomView/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" filepath="$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyIntentTest/MyIntentTest.iml" filepath="$PROJECT_DIR$/MyIntentTest/MyIntentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParcelableTest/ParcelableTest.iml" filepath="$PROJECT_DIR$/ParcelableTest/ParcelableTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/ServiceTest/ServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
+

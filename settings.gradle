@@ -1,0 +1,1 @@
+include ':app', ':CustomView', ':IntentServiceTest', ':ParcelableTest', ':MyIntentTest', ':ServiceTest'
