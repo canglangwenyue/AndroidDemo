@@ -1,1 +1,1 @@
-include ':app', ':CustomView', ':IntentServiceTest', ':ParcelableTest', ':MyIntentTest', ':ServiceTest'
+include ':app', ':CustomView', ':IntentServiceTest', ':ParcelableTest', ':MyIntentTest', ':ServiceTest', ':notificationTest', ':MyNOtificationTest'

@@ -12,9 +12,11 @@
             <option value="$PROJECT_DIR$/CustomView" />
             <option value="$PROJECT_DIR$/IntentServiceTest" />
             <option value="$PROJECT_DIR$/MyIntentTest" />
+            <option value="$PROJECT_DIR$/MyNOtificationTest" />
             <option value="$PROJECT_DIR$/ParcelableTest" />
             <option value="$PROJECT_DIR$/ServiceTest" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/notificationTest" />
           </set>
         </option>
       </GradleProjectSettings>
