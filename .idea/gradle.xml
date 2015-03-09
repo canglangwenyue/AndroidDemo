@@ -9,10 +9,18 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CircularReveal" />
+            <option value="$PROJECT_DIR$/CircularRevealModule" />
             <option value="$PROJECT_DIR$/CustomView" />
             <option value="$PROJECT_DIR$/IntentServiceTest" />
+            <option value="$PROJECT_DIR$/ListViewPages" />
+            <option value="$PROJECT_DIR$/MaterialButton" />
             <option value="$PROJECT_DIR$/MyIntentTest" />
             <option value="$PROJECT_DIR$/MyNOtificationTest" />
+            <option value="$PROJECT_DIR$/MyToolBar" />
+            <option value="$PROJECT_DIR$/NavDrawer" />
+            <option value="$PROJECT_DIR$/NavDrawer2" />
+            <option value="$PROJECT_DIR$/NavDrawer3" />
             <option value="$PROJECT_DIR$/ParcelableTest" />
             <option value="$PROJECT_DIR$/ServiceTest" />
             <option value="$PROJECT_DIR$/app" />

@@ -1,1 +1,1 @@
-include ':app', ':CustomView', ':IntentServiceTest', ':ParcelableTest', ':MyIntentTest', ':ServiceTest', ':notificationTest', ':MyNOtificationTest'
+include ':app', ':CustomView', ':IntentServiceTest', ':ParcelableTest', ':MyIntentTest', ':ServiceTest', ':notificationTest', ':MyNOtificationTest', ':MyToolBar', ':NavDrawer', ':NavDrawer', ':NavDrawer2', ':NavDrawer3', ':MaterialButton', ':CircularReveal', ':CircularRevealModule', ':ListViewPages'

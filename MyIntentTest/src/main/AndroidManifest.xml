@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="me.androiddemo.canglangwenyue.androiddemo" >
 
-    <uses-permission android:name="android.permission.CALL_PHONE"></uses-permission>
-    
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
@@ -18,6 +18,23 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        //不使用BroadCastReceiver的情况下使用隐式Intent时必须声明 <category android:name="android.intent.category.DEFAULT"></category>
+        //因为本例中的Intent没有指定category匹配值，所以默认自动为Intent加入了DEFAULT，如果此处不添加，则无法匹配到Activity
+
+        <activity
+            android:name=".Activity2"
+            android:label="@string/title_activity_activity2" >
+            <intent-filter>
+                <action android:name="myTest111"></action>
+                <category android:name="android.intent.category.DEFAULT"></category>
+            </intent-filter>
+        </activity>
+        <receiver android:name=".TestBroadCastReceiver">
+            <intent-filter>
+                <action android:name="Intent_1112"></action>
+            </intent-filter>
+        </receiver>
     </application>
 
 </manifest>

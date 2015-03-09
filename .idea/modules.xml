@@ -3,10 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidDemo.iml" filepath="$PROJECT_DIR$/AndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularReveal/CircularReveal.iml" filepath="$PROJECT_DIR$/CircularReveal/CircularReveal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircularRevealModule/CircularRevealModule.iml" filepath="$PROJECT_DIR$/CircularRevealModule/CircularRevealModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomView/CustomView.iml" filepath="$PROJECT_DIR$/CustomView/CustomView.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" filepath="$PROJECT_DIR$/IntentServiceTest/IntentServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewPages/ListViewPages.iml" filepath="$PROJECT_DIR$/ListViewPages/ListViewPages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialButton/MaterialButton.iml" filepath="$PROJECT_DIR$/MaterialButton/MaterialButton.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyIntentTest/MyIntentTest.iml" filepath="$PROJECT_DIR$/MyIntentTest/MyIntentTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyNOtificationTest/MyNOtificationTest.iml" filepath="$PROJECT_DIR$/MyNOtificationTest/MyNOtificationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyToolBar/MyToolBar.iml" filepath="$PROJECT_DIR$/MyToolBar/MyToolBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavDrawer/NavDrawer.iml" filepath="$PROJECT_DIR$/NavDrawer/NavDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavDrawer2/NavDrawer2.iml" filepath="$PROJECT_DIR$/NavDrawer2/NavDrawer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavDrawer3/NavDrawer3.iml" filepath="$PROJECT_DIR$/NavDrawer3/NavDrawer3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ParcelableTest/ParcelableTest.iml" filepath="$PROJECT_DIR$/ParcelableTest/ParcelableTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/ServiceTest/ServiceTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
